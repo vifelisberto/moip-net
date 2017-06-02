@@ -14,7 +14,7 @@ Moip.Net.V2 está disponível como um [NuGet Package](https://www.nuget.org/pack
 
 	Click on *Tools -> NuGet Package Manager -> Package Manager Console* and enter the following
 
-	PM> Install-Package moip-net
+	PM> Install-Package Moip.NET.V2
 
 ## Pagamentos v2
 
