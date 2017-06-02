@@ -1,6 +1,6 @@
-# Moip.Net
+# Moip.Net.V2
 
-Moip.Net é uma biblioteca para utilizar as funções da API do Moip.
+Moip.Net.V2 é um fork do projeto [Moip.Net](https://github.com/zoiverd/moip-net/)
 
 ATENÇÃO! A implementação da V1 da API não será considerada neste componente, uma vez que a V2 já está em ambiente de produção.
 
@@ -8,13 +8,13 @@ Estão implementadas as bibliotecas de Assinatura e Pagamento V2.
 
 ## Instalação
 
-Moip.Net está disponível como um [NuGet Package](https://www.nuget.org/packages/moip-net/). Esta é a melhor forma de instalar a biblioteca no seu projeto.
+Moip.Net.V2 está disponível como um [NuGet Package](https://www.nuget.org/packages/Moip.NET.V2). Esta é a melhor forma de instalar a biblioteca no seu projeto.
 
 ### Visual Studio
 
 	Click on *Tools -> NuGet Package Manager -> Package Manager Console* and enter the following
 
-	PM> Install-Package moip-net
+	PM> Install-Package Moip.NET.V2
 
 ## Pagamentos v2
 
