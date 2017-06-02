@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Moip.NET.V2</id>
+        <version>1.0.0</version>
+        <authors>Zoiverd</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>My package description.</description>
+    </metadata>
+    <files>
+        <file src="..\..\..\Projetos\moip-net\Moip.Net\bin\Release\Moip.Net.V2.dll" target="lib\net45\Moip.Net.V2.dll" />
+        <file src="..\..\..\Projetos\moip-net\Moip.Net\bin\Release\Moip.Net.V2.pdb" target="lib\net45\Moip.Net.V2.pdb" />
+    </files>
+</package>

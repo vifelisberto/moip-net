@@ -7,8 +7,8 @@
     <ProjectGuid>{ABED97B6-5479-46AA-9570-1012A9908263}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Moip.Net</RootNamespace>
-    <AssemblyName>Moip.Net</AssemblyName>
+    <RootNamespace>Moip.Net.V2</RootNamespace>
+    <AssemblyName>Moip.Net.V2</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
