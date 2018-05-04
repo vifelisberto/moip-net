@@ -7,6 +7,7 @@ namespace Moip.Net.V2.Model
         public Link Self { get; set; }
         public Link Order { get; set; }
         public Link Payment { get; set; }
+        public Link PayBoleto { get; set; }
         public Link Multiorder { get; set; }
         public Link Next { get; set; }
         public Link Previous { get; set; }
